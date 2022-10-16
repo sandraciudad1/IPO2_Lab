@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>App1</name>
+    </assembly>
+    <members>
+        <member name="T:App1.App">
+            <summary>
+            Proporciona un comportamiento específico de la aplicación para complementar la clase Application predeterminada.
+            </summary>
+        </member>
+        <member name="M:App1.App.#ctor">
+            <summary>
+            Inicializa el objeto de aplicación Singleton. Esta es la primera línea de código creado
+            ejecutado y, como tal, es el equivalente lógico de main() o WinMain().
+            </summary>
+        </member>
+        <member name="M:App1.App.OnLaunched(Windows.ApplicationModel.Activation.LaunchActivatedEventArgs)">
+            <summary>
+            Se invoca cuando la aplicación la inicia normalmente el usuario final. Se usarán otros puntos
+            de entrada cuando la aplicación se inicie para abrir un archivo específico, por ejemplo.
+            </summary>
+            <param name="e">Información detallada acerca de la solicitud y el proceso de inicio.</param>
+        </member>
+        <member name="M:App1.App.OnNavigationFailed(System.Object,Windows.UI.Xaml.Navigation.NavigationFailedEventArgs)">
+            <summary>
+            Se invoca cuando la aplicación la inicia normalmente el usuario final. Se usarán otros puntos
+            </summary>
+            <param name="sender">Marco que produjo el error de navegación</param>
+            <param name="e">Detalles sobre el error de navegación</param>
+        </member>
+        <member name="M:App1.App.OnSuspending(System.Object,Windows.ApplicationModel.SuspendingEventArgs)">
+            <summary>
+            Se invoca al suspender la ejecución de la aplicación. El estado de la aplicación se guarda
+            sin saber si la aplicación se terminará o se reanudará con el contenido
+            de la memoria aún intacto.
+            </summary>
+            <param name="sender">Origen de la solicitud de suspensión.</param>
+            <param name="e">Detalles sobre la solicitud de suspensión.</param>
+        </member>
+        <member name="M:App1.App.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.App.GetXamlType(System.Type)">
+            <summary>
+            GetXamlType(Type)
+            </summary>
+        </member>
+        <member name="M:App1.App.GetXamlType(System.String)">
+            <summary>
+            GetXamlType(String)
+            </summary>
+        </member>
+        <member name="M:App1.App.GetXmlnsDefinitions">
+            <summary>
+            GetXmlnsDefinitions()
+            </summary>
+        </member>
+        <member name="T:App1.Combate1Jug">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.Combate1Jug.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.Combate1Jug.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.Combate1Jug.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.Combate2Jug">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+            
+        </member>
+        <member name="M:App1.Combate2Jug.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.Combate2Jug.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.Combate2Jug.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.CombatePage">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.CombatePage.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.CombatePage.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.CombatePage.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.InicioPage">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.InicioPage.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.InicioPage.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.InicioPage.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.MainPage">
+            <summary>
+            Página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.MainPage.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.MainPage.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.MainPage.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="M:App1.MyUserControl1.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.MyUserControl1.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.MyUserControl1.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.PokedexAipom">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.PokedexAipom.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexAipom.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexAipom.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.PokedexCastform">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.PokedexCastform.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexCastform.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexCastform.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.PokedexCharizard">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.PokedexCharizard.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexCharizard.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexCharizard.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.PokedexDodrio">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.PokedexDodrio.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexDodrio.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexDodrio.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.PokedexDragonite">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.PokedexDragonite.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexDragonite.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexDragonite.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.PokedexGolbat">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.PokedexGolbat.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexGolbat.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexGolbat.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.PokedexPage">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.PokedexPage.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexPage.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexPage.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.PokedexSnorlax">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.PokedexSnorlax.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexSnorlax.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexSnorlax.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.PokedexTogepi">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.PokedexTogepi.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexTogepi.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexTogepi.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.PokedexZapdos">
+            <summary>
+            Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
+            </summary>
+        </member>
+        <member name="M:App1.PokedexZapdos.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexZapdos.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:App1.PokedexZapdos.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:App1.Program">
+            <summary>
+            Program class
+            </summary>
+        </member>
+        <member name="T:App1.App1_XamlTypeInfo.XamlMetaDataProvider">
+            <summary>
+            Main class for providing metadata for the app or library
+            </summary>
+        </member>
+        <member name="M:App1.App1_XamlTypeInfo.XamlMetaDataProvider.GetXamlType(System.Type)">
+            <summary>
+            GetXamlType(Type)
+            </summary>
+        </member>
+        <member name="M:App1.App1_XamlTypeInfo.XamlMetaDataProvider.GetXamlType(System.String)">
+            <summary>
+            GetXamlType(String)
+            </summary>
+        </member>
+        <member name="M:App1.App1_XamlTypeInfo.XamlMetaDataProvider.GetXmlnsDefinitions">
+            <summary>
+            GetXmlnsDefinitions()
+            </summary>
+        </member>
+    </members>
+</doc>
