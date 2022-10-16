@@ -1,0 +1,1037 @@
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\App.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\App.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\MainPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\MyUserControl1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\MyUserControl1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\App.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\MainPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\MyUserControl1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\resources.pri
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\Core\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\App1.build.appxrecipe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\System.Runtime.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\App1.csproj.CopyComplete
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\priconfig.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\resources.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\pri.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\qualifiers.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\CombatePage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\CombatePage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\PokedexPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\CapturaPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\CapturaPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\CapturaPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\CapturaPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\CapturaPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\bin\x86\Debug\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\InicioPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\InicioPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\App1\App1\obj\x86\Debug\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\resources.pri
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\Core\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\App1.build.appxrecipe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\System.Runtime.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\App.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\App.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\CombatePage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\InicioPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\MainPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\MyUserControl1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\MyUserControl1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\App.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\CombatePage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\InicioPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\MainPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\MyUserControl1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\PokedexPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\App1.csproj.CopyComplete
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\priconfig.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\resources.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\pri.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\qualifiers.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\bin\x86\Debug\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\CaractTogepi1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\CaractTogepi1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\CaractTogepi1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\Sesion7\App1\obj\x86\Debug\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\App.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\App.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\InicioPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\MainPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\App.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\InicioPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\MainPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\resources.pri
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\Core\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\App1.build.appxrecipe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\System.Runtime.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.CopyComplete
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\priconfig.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\resources.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\pri.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\qualifiers.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\CombatePage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\CombatePage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\CombatePage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\App.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\CaractTogepi1.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\CombatePage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\InicioPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\MainPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\MyUserControl1.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\PokedexPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\App1.xr.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\App1.exe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\App1.pdb
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\resources.pri
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\AppxManifest.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\Core\App1.exe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\App1.build.appxrecipe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\System.Runtime.dll
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\App.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\App.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\CombatePage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\InicioPage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\MainPage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\App.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\InicioPage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\MainPage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\CombatePage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\App.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\InicioPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\MainPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\CombatePage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.CopyComplete
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\App1.exe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\App1.pdb
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\priconfig.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\resources.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\pri.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\qualifiers.txt
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\PokedexTogepi.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\bin\x86\Debug\PokedexSnorlax.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Proyecto grupal\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\bin\x86\Debug\PokedexTogepi.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\App.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\CaractTogepi1.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\CombatePage.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\InicioPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\MainPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\MyUserControl1.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\PokedexPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\PokedexSnorlax.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\PokedexTogepi.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\App1.xr.xml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\App1.exe
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\App1.pdb
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\resources.pri
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\AppxManifest.xml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\Core\App1.exe
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\App1.build.appxrecipe
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\System.Runtime.dll
+C:\Users\HOME\Desktop\PokemonGrupal\App1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\App.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\App.g.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.g.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\CombatePage.g.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\InicioPage.g.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\MainPage.g.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.g.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.g.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.g.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\App.xaml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.xaml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\CombatePage.xaml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\InicioPage.xaml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\MainPage.xaml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.xaml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.xaml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.xaml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.xaml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\App.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\CombatePage.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\InicioPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\MainPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.xbf
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.CopyComplete
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\App1.exe
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\App1.pdb
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\priconfig.xml
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\resources.resfiles
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\pri.resfiles
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\qualifiers.txt
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\HOME\Desktop\PokemonGrupal\App1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\App.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\App.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\CombatePage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\InicioPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\MainPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\App.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\CombatePage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\InicioPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\MainPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\PokedexTogepi.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\App1.csproj.CopyComplete
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\PokedexTogepi.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\priconfig.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\resources.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\pri.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\resources.pri
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\qualifiers.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\Core\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\Core\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal\App1.build.appxrecipe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\App.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\App.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\CaractTogepi1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\CaractTogepi1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\CombatePage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\InicioPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\MainPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\MyUserControl1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\MyUserControl1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexSnorlax.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexSnorlax.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexTogepi.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexTogepi.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\App.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\CaractTogepi1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\CombatePage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\InicioPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\MainPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\MyUserControl1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexSnorlax.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexTogepi.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\PokedexTogepi.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\App1.csproj.CopyComplete
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\PokedexTogepi.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\priconfig.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\resources.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\pri.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\resources.pri
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\qualifiers.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\Core\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\Core\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupal - copia\App1.build.appxrecipe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\App.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\App.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\CaractTogepi1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\CaractTogepi1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\CombatePage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\InicioPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\MainPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\MyUserControl1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\MyUserControl1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexSnorlax.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexSnorlax.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexTogepi.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexTogepi.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\App.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\CaractTogepi1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\CombatePage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\InicioPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\MainPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\MyUserControl1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexSnorlax.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexTogepi.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexTogepi.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\App1.csproj.CopyComplete
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\PokedexTogepi.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\priconfig.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\resources.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\pri.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\resources.pri
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\qualifiers.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\Core\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\Core\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1.build.appxrecipe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexAipom.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexAipom.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexCastform.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexCastform.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexCharizard.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexCharizard.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexDodrio.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexDodrio.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexDragonite.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexDragonite.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexGolbat.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexGolbat.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexAipom.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexCastform.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexCharizard.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexDodrio.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexDragonite.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexGolbat.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexAipom.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexCastform.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexCharizard.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexDodrio.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexDragonite.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedexGolbat.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\PokedexAipom.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\PokedexCastform.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\PokedexCharizard.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\PokedexDodrio.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\PokedexDragonite.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\PokedexGolbat.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedezZapdos.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedezZapdos.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedezZapdos.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\PokedezZapdos.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\PokedezZapdos.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\Combate1Jug.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\Combate1Jug.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\Combate2Jug.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\Combate2Jug.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\Combate1Jug.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\Combate2Jug.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\Combate1Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\App1\obj\x86\Debug\Combate2Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\Combate1Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv2\Combate2Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\App.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\App.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\CaractTogepi1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\CaractTogepi1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedezZapdos.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedezZapdos.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\App.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\CaractTogepi1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedezZapdos.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\PokedezZapdos.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\App1.csproj.CopyComplete
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\CaractTogepi1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\Combate1Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\Combate2Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\PokedexAipom.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\PokedexCastform.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\PokedexCharizard.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\PokedexDodrio.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\PokedexDragonite.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\PokedexGolbat.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\PokedexTogepi.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\PokedezZapdos.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\priconfig.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\resources.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\pri.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\resources.pri
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\qualifiers.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\Core\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\Core\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\3º\2 CUATRIMESTRE\Iteracción Persona-Ordenador 2\Laboratorio\PokemonGrupalv3\App1.build.appxrecipe
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CaractTogepi1.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CaractTogepi1.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexZapdos.g.i.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexZapdos.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CaractTogepi1.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexZapdos.xaml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CaractTogepi1.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexZapdos.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\App1.xr.xml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App1.csproj.CopyComplete
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App1.exe
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App1.pdb
+C:\Users\HOME\Desktop\PokemonGrupalv3\App.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\CaractTogepi1.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\Combate1Jug.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\Combate2Jug.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\CombatePage.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\InicioPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\MainPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\MyUserControl1.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\PokedexAipom.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\PokedexCastform.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\PokedexCharizard.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\PokedexDodrio.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\PokedexDragonite.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\PokedexGolbat.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\PokedexPage.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\PokedexSnorlax.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\PokedexTogepi.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\PokedexZapdos.xbf
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1.xr.xml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1.exe
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1.pdb
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\priconfig.xml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\resources.resfiles
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\pri.resfiles
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\HOME\Desktop\PokemonGrupalv3\resources.pri
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\qualifiers.txt
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\HOME\Desktop\PokemonGrupalv3\AppxManifest.xml
+C:\Users\HOME\Desktop\PokemonGrupalv3\Core\App1.exe
+C:\Users\HOME\Desktop\PokemonGrupalv3\Core\AppxManifest.xml
+C:\Users\HOME\Desktop\PokemonGrupalv3\App1.build.appxrecipe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexZapdos.g.i.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexZapdos.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexZapdos.xaml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate1Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Combate2Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexAipom.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCastform.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexCharizard.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDodrio.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexDragonite.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexGolbat.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexTogepi.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\PokedexZapdos.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App1.csproj.CopyComplete
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1.XML
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\Combate1Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\Combate2Jug.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\CombatePage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\InicioPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\MainPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\MyUserControl1.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\PokedexAipom.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\PokedexCastform.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\PokedexCharizard.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\PokedexDodrio.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\PokedexDragonite.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\PokedexGolbat.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\PokedexPage.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\PokedexSnorlax.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\PokedexTogepi.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\PokedexZapdos.xbf
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1.xr.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\priconfig.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\resources.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\pri.resfiles
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\resources.pri
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\qualifiers.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\Core\App1.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\Core\AppxManifest.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1.build.appxrecipe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\CommunityToolkit.WinUI.Notifications.pri.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Core.pri.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.Primitives.pri.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\App1\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\PokemonGrupalv3\Microsoft.Toolkit.Uwp.UI.Controls.Core\Microsoft.Toolkit.Uwp.UI.Controls.Core.xr.xml
