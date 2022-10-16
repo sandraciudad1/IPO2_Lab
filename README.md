@@ -1,1 +1,1 @@
-# IPO2_Lab
+# Repositorio para el laboratorio de Interacción Persona Ordenador 2
